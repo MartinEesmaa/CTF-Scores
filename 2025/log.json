@@ -1,0 +1,473 @@
+{
+    "meta": {
+      "offset": 0,
+      "limit": 0,
+      "timestamp": "2025-04-15T15:36:42.390Z"
+    },
+    "data": [
+      {
+        "id": "2519a07d-0737-4c93-802a-185071192a41",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-15T15:36:42.390Z"
+      },
+      {
+        "id": "64f4447e-c2b1-4058-8489-268931042556",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-15T12:30:40.746Z"
+      },
+      {
+        "id": "feebf3c4-f69f-48c6-b7ba-03bb6361c3a0",
+        "category": "USE_HINT",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": -10,
+        "timestamp": "2025-04-15T12:17:23.498Z"
+      },
+      {
+        "id": "42701dfa-aead-43fa-aae1-dcb0cc841777",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-15T10:50:10.579Z"
+      },
+      {
+        "id": "70dc7a59-1ef0-4568-b53d-1a7fb6e4e55b",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-15T09:25:55.161Z"
+      },
+      {
+        "id": "39baf0ac-7724-4014-a343-4a0dc0952b8c",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-15T09:21:52.839Z"
+      },
+      {
+        "id": "890501e2-2bb7-4b43-a6ab-071bf0a34ee0",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-15T06:04:16.498Z"
+      },
+      {
+        "id": "d1ceaddf-a5c0-468a-8af4-7f040c374dcb",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-15T04:19:15.097Z"
+      },
+      {
+        "id": "2b9cdc21-04ac-453d-b371-3e1b6017247c",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T08:02:27.888Z"
+      },
+      {
+        "id": "5b9d765b-abf4-48f1-814b-e34ec2e85da9",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T07:36:25.911Z"
+      },
+      {
+        "id": "60f1b826-64a8-4997-8f6d-f0a44796d452",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T07:09:35.963Z"
+      },
+      {
+        "id": "dd0a9f04-5f8b-4529-9b00-4a07092c092c",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T07:08:00.454Z"
+      },
+      {
+        "id": "fef418e7-e999-4095-8b41-4becfce4b146",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T07:04:59.912Z"
+      },
+      {
+        "id": "0e73bfa8-482f-4d69-b260-07e87c508544",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T07:01:53.880Z"
+      },
+      {
+        "id": "7ef3e344-579e-4a00-ae76-4e681bed1e4e",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T06:58:26.981Z"
+      },
+      {
+        "id": "c1066dd4-3046-4c30-b5b4-b9894330fb65",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T06:29:53.198Z"
+      },
+      {
+        "id": "9a89cc15-3baf-434f-9f4d-1a7e2ee6e453",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T06:05:53.155Z"
+      },
+      {
+        "id": "858a57ff-860d-4068-afb6-e892e379d0c2",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T04:11:42.178Z"
+      },
+      {
+        "id": "138efe52-55d5-45c3-969a-d89da9e84d89",
+        "category": "USE_HINT",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": -10,
+        "timestamp": "2025-04-14T04:09:51.338Z"
+      },
+      {
+        "id": "04e70054-0485-4c9a-9d7a-9e81379be78d",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T03:32:19.507Z"
+      },
+      {
+        "id": "e5a3c55d-ab7f-4535-91d1-a34697c4d6af",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T03:14:02.647Z"
+      },
+      {
+        "id": "b2943238-3927-482c-b644-0bf37ee3c77b",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-14T02:57:38.402Z"
+      },
+      {
+        "id": "a989f8c1-062a-4d8d-9b85-121b9ac6eb29",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-13T10:54:40.820Z"
+      },
+      {
+        "id": "546d800a-cf0e-4aaa-8835-c6b908c338cf",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-13T10:19:12.759Z"
+      },
+      {
+        "id": "af5322c4-4988-412f-b89d-f07280a1e299",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-13T10:18:07.932Z"
+      },
+      {
+        "id": "b8e444a6-b8bf-464e-9524-372161a184bb",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-13T10:11:34.344Z"
+      },
+      {
+        "id": "85a2b9ac-dec7-4dc9-935b-26503846714e",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-13T07:40:21.518Z"
+      },
+      {
+        "id": "8a5a5aae-3db5-4a43-95c8-f9caf2cf2bb4",
+        "category": "USE_HINT",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": -10,
+        "timestamp": "2025-04-13T06:46:43.306Z"
+      },
+      {
+        "id": "dccc6751-1a70-4f01-87f5-d6e8270df93c",
+        "category": "USE_HINT",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": -15,
+        "timestamp": "2025-04-13T06:01:46.871Z"
+      },
+      {
+        "id": "c958bda3-cace-435b-913d-a7aad5b7d7f5",
+        "category": "USE_HINT",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": -10,
+        "timestamp": "2025-04-13T05:57:06.740Z"
+      },
+      {
+        "id": "17d57c6d-7d9e-4d3b-b18e-85d03a4bea23",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-13T05:52:13.447Z"
+      },
+      {
+        "id": "0280af4f-26e6-4ed5-ad9a-18058cded3a4",
+        "category": "USE_HINT",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": -10,
+        "timestamp": "2025-04-13T00:39:04.380Z"
+      },
+      {
+        "id": "cfc216ab-4411-4e29-88e8-9aa3b4218892",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T13:42:36.711Z"
+      },
+      {
+        "id": "83dca3d7-f3f5-4ee7-916e-54fc123389aa",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T05:54:44.950Z"
+      },
+      {
+        "id": "dc1c802b-b2a6-4e7f-9369-58aa4850518e",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T05:54:01.633Z"
+      },
+      {
+        "id": "ba35d077-cb6a-4a10-8ad8-78aa1c0c8b60",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T05:53:17.316Z"
+      },
+      {
+        "id": "d92f8f22-55aa-4309-b045-5518d69562ff",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T05:00:10.281Z"
+      },
+      {
+        "id": "0c15ad52-eefe-4851-adfe-eba56c564e9e",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T03:50:15.085Z"
+      },
+      {
+        "id": "38fcc888-5d42-4515-8108-29d50c2a41e1",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T03:47:05.573Z"
+      },
+      {
+        "id": "e67487fe-8a09-4ed2-a989-6ed4d42d6102",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T03:28:48.097Z"
+      },
+      {
+        "id": "a8f8d51a-af81-42bc-b7c6-5182ecb18a20",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T01:58:10.909Z"
+      },
+      {
+        "id": "94b763f9-1ce4-409f-89a5-d551bab763db",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T01:47:21.630Z"
+      },
+      {
+        "id": "c9275c26-8b73-4641-be8d-7ec97956e981",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T01:33:06.679Z"
+      },
+      {
+        "id": "ee7e728a-df60-4357-991f-6d61f1539c4f",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T01:28:05.583Z"
+      },
+      {
+        "id": "2bf6ff38-f8d6-4cd1-bea5-f289f10fa0f9",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T01:25:47.436Z"
+      },
+      {
+        "id": "e1c223a2-c637-4aa5-a36f-83a4a9c0d5c9",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T01:24:42.216Z"
+      },
+      {
+        "id": "a4738704-582d-48fd-9da6-7f36594075b6",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T01:18:29.409Z"
+      },
+      {
+        "id": "63e7b86b-1c04-4b94-b54c-1ba777be4c10",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T01:09:48.991Z"
+      },
+      {
+        "id": "77d1d21c-2079-4f82-864d-c80172ad5983",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T01:06:13.190Z"
+      },
+      {
+        "id": "86c5c0ba-37a7-4027-ab54-f0dce5af9776",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T00:44:05.873Z"
+      },
+      {
+        "id": "f4ad1c09-3ea0-45cb-8fac-e43fad0d72b8",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-12T00:13:22.793Z"
+      },
+      {
+        "id": "22b8e370-533a-4464-8937-1db98a442c07",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-11T23:25:24.496Z"
+      },
+      {
+        "id": "8070ffc9-902c-47a5-988b-627999b8dbb9",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-11T23:19:07.659Z"
+      },
+      {
+        "id": "89b6a985-56d6-4022-994f-80c09179f3a0",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-11T23:17:53.087Z"
+      },
+      {
+        "id": "53ff7974-5f19-4dbe-8cb5-2ed5e307d5c0",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-11T23:16:18.654Z"
+      },
+      {
+        "id": "5b7c0b9e-2eab-47c5-9465-ec4b1c5a4e32",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-11T23:13:39.131Z"
+      },
+      {
+        "id": "aa26846a-c3bb-47cc-b3c3-0b5ab67e85cd",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-11T23:12:52.170Z"
+      },
+      {
+        "id": "d602ab19-8615-4d7c-8ccd-95e6239a9bd5",
+        "category": "SOLVE_TASK",
+        "teamId": "d06f5bf6-e1fd-4a9c-88c4-019b09cb9cd1",
+        "teamName": "s142.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2025-04-11T23:07:43.384Z"
+      }
+    ]
+  }
