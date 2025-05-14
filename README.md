@@ -6,9 +6,15 @@ Every 15 minutes takes to data for show timeline, when it starts until the end o
 
 ### 2024 Cyber Battle of Australia
 
-Coming soon...
+Bootcamp status: 15 tasks solved out of 50, 0 hints used (won, able partipicate to next round)
+
+Qualifier: [JSON data](2024/log.json)
 
 Lost due to qualifier round.
+
+Reason: Too difficult, one person unexpected shift
+
+Qualifier status: 1 task solved out of 20, 2 hints used (lost)
 
 ### 2025 Cyber Battle of Australia
 
