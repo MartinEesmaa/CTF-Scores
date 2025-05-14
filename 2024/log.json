@@ -1,0 +1,33 @@
+{
+    "meta": {
+      "offset": 0,
+      "limit": 0,
+      "timestamp": "2024-06-15T03:48:55.000Z"
+    },
+    "data": [
+      {
+        "id": "Unknown",
+        "category": "SOLVE_TASK",
+        "teamId": "Unknown",
+        "teamName": "s001.a2.crp.sh",
+        "score": 100,
+        "timestamp": "2024-06-15T03:48:55.000Z"
+      },
+      {
+        "id": "Unknown",
+        "category": "USE_HINT",
+        "teamId": "Unknown",
+        "teamName": "s001.a2.crp.sh",
+        "score": -10,
+        "timestamp": "2024-06-15T03:42:34.000Z"
+      },
+      {
+        "id": "Unknown",
+        "category": "USE_HINT",
+        "teamId": "Unknown",
+        "teamName": "s001.a2.crp.sh",
+        "score": -10,
+        "timestamp": "2024-06-15T03:36:35.000Z"
+      }
+    ]
+  }
