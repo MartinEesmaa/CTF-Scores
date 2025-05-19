@@ -23,3 +23,7 @@ Bootcamp: [JSON data](2025/bootcamp.json)
 Minimized bootcamp: [JSON minimized data](2025/bootcamp.min.json)
 
 Bootcamp status: 52 tasks solved, 6 hints used (success)
+
+Qualifier status: 10 tasks solved out of 20, 1 hint used (won with my team of three members)
+
+On final round, we're going to Melbourne on 5th July 2025 to compete a final round.
