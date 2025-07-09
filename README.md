@@ -22,8 +22,26 @@ Bootcamp: [JSON data](2025/bootcamp.json)
 
 Minimized bootcamp: [JSON minimized data](2025/bootcamp.min.json)
 
+Log: [JSON data](2025/log.json)
+
+Minimized log: [JSON data](2025/log.min.json)
+
+Qualifier table: [Result](2025/qualifiertable.md)
+
 Bootcamp status: 52 tasks solved, 6 hints used (success)
 
 Qualifier status: 10 tasks solved out of 20, 1 hint used (won with my team of three members)
 
-On final round, we're going to Melbourne on 5th July 2025 to compete a final round.
+On final round, we're going to Melbourne on 5th July 2025 to compete a final round in SEEK HQ.
+
+Final round: [JSON data](2025/final.json)
+
+Minimized final: [JSON minimized data](2025/final.min.json)
+
+Log: [JSON data](2025/finallog.json)
+
+Minimized log: [JSON data](2025/finallog.min.json)
+
+Final table: [Result](2025/finaltable.md)
+
+Final status: 5 tasks solved out of 22, 1 hint used (lost, but it is winner with my team of two members and everyone else are winners compete in final round)
