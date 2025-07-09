@@ -17,7 +17,7 @@
 | 13    | 660    | BBC                      | South Metropolitan TAFE (3)                                        | PERTH    |
 | 14    | 615    | Bug Bytes                | North Metropolitan TAFE (2) / South Metropolitan TAFE (1)          | PERTH    |
 | 15    | 605    | Sudo Wrestlers           | University of Canberra (3)                                         | CBR      |
-| 16    | 565    | First Place              | Others                                                             | ADE      |
+| 16    | 565    | First Place              | Others (2)                                                         | ADE      |
 | 17    | 525    | Sonar                    | TAFE South Australia (2)                                           | ADE      |
 | 18    | 500    | Team f-das               | TAFE South Australia (2)                                           | ADE      |
 | 18    | 500    | Brain Dead               | TAFE Queensland (3)                                                | BRI      |
