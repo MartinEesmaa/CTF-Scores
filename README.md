@@ -26,6 +26,8 @@ Qualifier status: 1 task solved out of 20, 2 hints used (lost)
 
 ### Bootcamp
 
+Bootcamp status: 52 tasks solved, 6 hints used (success)
+
 Bootcamp: [JSON data](2025/bootcamp.json)
 
 Minimized bootcamp: [JSON minimized data](2025/bootcamp.min.json)
@@ -39,8 +41,6 @@ Minimized log: [JSON data](2025/log.min.json)
 ### Qualifier
 
 Qualifier table: [Result](2025/qualifiertable.md)
-
-Bootcamp status: 52 tasks solved, 6 hints used (success)
 
 Qualifier status: 10 tasks solved out of 20, 1 hint used (won with my team of three members)
 
@@ -61,3 +61,19 @@ Minimized log: [JSON data](2025/finallog.min.json)
 Final table: [Result](2025/finaltable.md)
 
 Final status: 5 tasks solved out of 22, 1 hint used (lost, but it is winner with my team of two members and everyone else are winners compete in final round)
+
+## 2026 Cyber Battle of Australia
+
+### Bootcamp
+
+Result:
+
+![mupunktid-bc2026](2026/mupunktid-bc.png)
+
+Bootcamp status: 52 tasks solved, 0 hints used (success)
+
+Scoring log: [JSON data](2026/scorlinglog-bc.json)
+
+Team scoring: [JSON data](2026/teamscoring-bc.json)
+
+Team timeline log: [JSON data](2026/timeline-bc.json)
