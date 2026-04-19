@@ -88,34 +88,12 @@
         ]
     },
     {
-        "teamId": "8f228808-e502-4dec-950e-be7e8f8340aa",
-        "teamName": "s242",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -110.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 4800.0
-            }
-        ]
-    },
-    {
         "teamId": "c2716c51-b1d6-4dea-bde2-d2cb96dee26f",
         "teamName": "s297",
         "scores": [
             {
                 "category": "USE_HINT",
-                "value": -50.0
+                "value": -75.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -127,7 +105,51 @@
             },
             {
                 "category": "SOLVE_TASK",
-                "value": 4700.0
+                "value": 4900.0
+            }
+        ]
+    },
+    {
+        "teamId": "8f228808-e502-4dec-950e-be7e8f8340aa",
+        "teamName": "s242",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -135.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 4900.0
+            }
+        ]
+    },
+    {
+        "teamId": "e6048d92-356d-4af2-b71b-a66eea2453a8",
+        "teamName": "s202",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -260.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 4900.0
             }
         ]
     },
@@ -154,72 +176,6 @@
         ]
     },
     {
-        "teamId": "2965035a-a7fa-4c7a-b500-b117776002c7",
-        "teamName": "s206",
-        "scores": [
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "USE_HINT",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 4300.0
-            }
-        ]
-    },
-    {
-        "teamId": "4578b5fd-0ecd-4602-aab0-d0be933a7f3d",
-        "teamName": "s133",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -310.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 4600.0
-            }
-        ]
-    },
-    {
-        "teamId": "b5360e42-978f-40ef-86fd-3826cb15afc5",
-        "teamName": "s307",
-        "scores": [
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "USE_HINT",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 4200.0
-            }
-        ]
-    },
-    {
         "teamId": "d84a6e1f-660f-43cf-ae3d-b6134d3e0b12",
         "teamName": "s303",
         "scores": [
@@ -237,7 +193,7 @@
             },
             {
                 "category": "SOLVE_TASK",
-                "value": 4200.0
+                "value": 4600.0
             }
         ]
     },
@@ -247,7 +203,7 @@
         "scores": [
             {
                 "category": "USE_HINT",
-                "value": -70.0
+                "value": -80.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -259,7 +215,73 @@
             },
             {
                 "category": "SOLVE_TASK",
-                "value": 4200.0
+                "value": 4600.0
+            }
+        ]
+    },
+    {
+        "teamId": "2965035a-a7fa-4c7a-b500-b117776002c7",
+        "teamName": "s206",
+        "scores": [
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "USE_HINT",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 4400.0
+            }
+        ]
+    },
+    {
+        "teamId": "b5360e42-978f-40ef-86fd-3826cb15afc5",
+        "teamName": "s307",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -10.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 4400.0
+            }
+        ]
+    },
+    {
+        "teamId": "4578b5fd-0ecd-4602-aab0-d0be933a7f3d",
+        "teamName": "s133",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -335.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 4700.0
             }
         ]
     },
@@ -270,28 +292,6 @@
             {
                 "category": "USE_HINT",
                 "value": -105.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 4200.0
-            }
-        ]
-    },
-    {
-        "teamId": "6471e891-e0fa-4733-a2b4-d5be1f413cfc",
-        "teamName": "s135",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -235.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -325,17 +325,17 @@
             },
             {
                 "category": "SOLVE_TASK",
-                "value": 3900.0
+                "value": 4100.0
             }
         ]
     },
     {
-        "teamId": "e6048d92-356d-4af2-b71b-a66eea2453a8",
-        "teamName": "s202",
+        "teamId": "9873cfb1-f000-4556-92b5-6df1f4cf5040",
+        "teamName": "s108",
         "scores": [
             {
                 "category": "USE_HINT",
-                "value": -160.0
+                "value": -280.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -347,7 +347,73 @@
             },
             {
                 "category": "SOLVE_TASK",
+                "value": 4300.0
+            }
+        ]
+    },
+    {
+        "teamId": "261b2a1c-ece0-44ed-a6e2-1ad26869fe57",
+        "teamName": "s287",
+        "scores": [
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "USE_HINT",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
                 "value": 4000.0
+            }
+        ]
+    },
+    {
+        "teamId": "6471e891-e0fa-4733-a2b4-d5be1f413cfc",
+        "teamName": "s135",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -235.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 4200.0
+            }
+        ]
+    },
+    {
+        "teamId": "b0bf3ac7-93f6-4a72-b49e-3b05d0a546e4",
+        "teamName": "s294",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -10.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 3900.0
             }
         ]
     },
@@ -374,6 +440,28 @@
         ]
     },
     {
+        "teamId": "737fa708-38ee-4b19-9d89-068aab6b2ba6",
+        "teamName": "s070",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -55.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 3800.0
+            }
+        ]
+    },
+    {
         "teamId": "9d61fe48-0f64-4fa3-8623-990f17ce4d3a",
         "teamName": "s254",
         "scores": [
@@ -387,6 +475,28 @@
             },
             {
                 "category": "USE_HINT",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 3700.0
+            }
+        ]
+    },
+    {
+        "teamId": "c938485e-04ba-4c16-bb1e-1db8eae675b0",
+        "teamName": "s103",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -30.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
                 "value": 0.0
             },
             {
@@ -418,12 +528,12 @@
         ]
     },
     {
-        "teamId": "c938485e-04ba-4c16-bb1e-1db8eae675b0",
-        "teamName": "s103",
+        "teamId": "c52a04b2-b666-49aa-98c5-0a144de61b51",
+        "teamName": "s305",
         "scores": [
             {
                 "category": "USE_HINT",
-                "value": -20.0
+                "value": -40.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -435,17 +545,17 @@
             },
             {
                 "category": "SOLVE_TASK",
-                "value": 3500.0
+                "value": 3400.0
             }
         ]
     },
     {
-        "teamId": "c52a04b2-b666-49aa-98c5-0a144de61b51",
-        "teamName": "s305",
+        "teamId": "428f626c-a0da-4c00-ae5b-dab6d20aff7a",
+        "teamName": "s032",
         "scores": [
             {
                 "category": "USE_HINT",
-                "value": -40.0
+                "value": -55.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -480,72 +590,6 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 3300.0
-            }
-        ]
-    },
-    {
-        "teamId": "428f626c-a0da-4c00-ae5b-dab6d20aff7a",
-        "teamName": "s032",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -55.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 3300.0
-            }
-        ]
-    },
-    {
-        "teamId": "b0bf3ac7-93f6-4a72-b49e-3b05d0a546e4",
-        "teamName": "s294",
-        "scores": [
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "USE_HINT",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 3200.0
-            }
-        ]
-    },
-    {
-        "teamId": "737fa708-38ee-4b19-9d89-068aab6b2ba6",
-        "teamName": "s070",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -45.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 3200.0
             }
         ]
     },
@@ -612,28 +656,6 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 3100.0
-            }
-        ]
-    },
-    {
-        "teamId": "9873cfb1-f000-4556-92b5-6df1f4cf5040",
-        "teamName": "s108",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -150.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 3200.0
             }
         ]
     },
@@ -726,6 +748,50 @@
         ]
     },
     {
+        "teamId": "7ad8d2df-f025-41a8-bfe5-5995941df159",
+        "teamName": "s296",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -40.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 3000.0
+            }
+        ]
+    },
+    {
+        "teamId": "d7d736f3-6a0c-446b-8509-9d1b4c4464b6",
+        "teamName": "s288",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -55.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 3000.0
+            }
+        ]
+    },
+    {
         "teamId": "2b39c502-3626-4dc7-8350-95052766aa4b",
         "teamName": "s037",
         "scores": [
@@ -754,6 +820,28 @@
             {
                 "category": "USE_HINT",
                 "value": -75.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 3000.0
+            }
+        ]
+    },
+    {
+        "teamId": "10dce041-b5ea-4c6c-9d47-5c9c7faf439f",
+        "teamName": "s194",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -125.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -814,6 +902,28 @@
         ]
     },
     {
+        "teamId": "0d80ddbe-1b13-4242-afa9-db6ec6f859bd",
+        "teamName": "s127",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -185.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 3000.0
+            }
+        ]
+    },
+    {
         "teamId": "e3d82ddd-8d6d-4a50-9c5a-52a49c500cfd",
         "teamName": "s148",
         "scores": [
@@ -832,28 +942,6 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 3100.0
-            }
-        ]
-    },
-    {
-        "teamId": "261b2a1c-ece0-44ed-a6e2-1ad26869fe57",
-        "teamName": "s287",
-        "scores": [
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "USE_HINT",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2800.0
             }
         ]
     },
@@ -902,56 +990,12 @@
         ]
     },
     {
-        "teamId": "10dce041-b5ea-4c6c-9d47-5c9c7faf439f",
-        "teamName": "s194",
+        "teamId": "79ac2fbb-6a4e-4390-9399-80ab66575857",
+        "teamName": "s284",
         "scores": [
             {
                 "category": "USE_HINT",
-                "value": -125.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2900.0
-            }
-        ]
-    },
-    {
-        "teamId": "016a391f-6bde-419b-b15a-b96d15ccf02a",
-        "teamName": "s302",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -330.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 3100.0
-            }
-        ]
-    },
-    {
-        "teamId": "7ad8d2df-f025-41a8-bfe5-5995941df159",
-        "teamName": "s296",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -40.0
+                "value": -30.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -986,6 +1030,50 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 2800.0
+            }
+        ]
+    },
+    {
+        "teamId": "016a391f-6bde-419b-b15a-b96d15ccf02a",
+        "teamName": "s302",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -390.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 3100.0
+            }
+        ]
+    },
+    {
+        "teamId": "82ded9de-ff59-4417-ace1-4a1cb02c186c",
+        "teamName": "s207",
+        "scores": [
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "USE_HINT",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2700.0
             }
         ]
     },
@@ -1100,6 +1188,28 @@
         ]
     },
     {
+        "teamId": "b60c9ac0-d221-4d79-82eb-75fda1ef2584",
+        "teamName": "s139",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -150.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2800.0
+            }
+        ]
+    },
+    {
         "teamId": "2c7d9981-61f4-4e5b-86a1-cf139ee983c1",
         "teamName": "s201",
         "scores": [
@@ -1122,8 +1232,8 @@
         ]
     },
     {
-        "teamId": "d7d736f3-6a0c-446b-8509-9d1b4c4464b6",
-        "teamName": "s288",
+        "teamId": "cfbc4380-1d0a-457f-93f5-ada27405c29f",
+        "teamName": "s006",
         "scores": [
             {
                 "category": "USE_HINT",
@@ -1140,6 +1250,28 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 2700.0
+            }
+        ]
+    },
+    {
+        "teamId": "401df0da-5f7d-418f-a4c8-7ab082661c86",
+        "teamName": "s137",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -155.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2800.0
             }
         ]
     },
@@ -1210,34 +1342,12 @@
         ]
     },
     {
-        "teamId": "d8776b15-83db-4bd6-9d52-304a4bb3f2fd",
-        "teamName": "s198",
+        "teamId": "27007fdb-0111-4c6f-bda5-33c4dcd024cf",
+        "teamName": "s253",
         "scores": [
             {
                 "category": "USE_HINT",
-                "value": -20.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2600.0
-            }
-        ]
-    },
-    {
-        "teamId": "401df0da-5f7d-418f-a4c8-7ab082661c86",
-        "teamName": "s137",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -125.0
+                "value": -105.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -1254,34 +1364,12 @@
         ]
     },
     {
-        "teamId": "79ac2fbb-6a4e-4390-9399-80ab66575857",
-        "teamName": "s284",
+        "teamId": "d8776b15-83db-4bd6-9d52-304a4bb3f2fd",
+        "teamName": "s198",
         "scores": [
             {
                 "category": "USE_HINT",
-                "value": -30.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2600.0
-            }
-        ]
-    },
-    {
-        "teamId": "cfbc4380-1d0a-457f-93f5-ada27405c29f",
-        "teamName": "s006",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -45.0
+                "value": -20.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -1320,12 +1408,12 @@
         ]
     },
     {
-        "teamId": "b60c9ac0-d221-4d79-82eb-75fda1ef2584",
-        "teamName": "s139",
+        "teamId": "68329f30-6283-411a-8ef5-4e5d7babe19d",
+        "teamName": "s272",
         "scores": [
             {
                 "category": "USE_HINT",
-                "value": -150.0
+                "value": -35.0
             },
             {
                 "category": "ABANDON_TASK",
@@ -1333,50 +1421,6 @@
             },
             {
                 "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2700.0
-            }
-        ]
-    },
-    {
-        "teamId": "0d80ddbe-1b13-4242-afa9-db6ec6f859bd",
-        "teamName": "s127",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -175.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2700.0
-            }
-        ]
-    },
-    {
-        "teamId": "82ded9de-ff59-4417-ace1-4a1cb02c186c",
-        "teamName": "s207",
-        "scores": [
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "USE_HINT",
                 "value": 0.0
             },
             {
@@ -1408,6 +1452,28 @@
         ]
     },
     {
+        "teamId": "b098141b-27b9-4101-ba71-4cb0f319a951",
+        "teamName": "s034",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -175.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2600.0
+            }
+        ]
+    },
+    {
         "teamId": "ea74f2c5-34d8-4a39-a55e-6605334241f2",
         "teamName": "s110",
         "scores": [
@@ -1426,6 +1492,28 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 2600.0
+            }
+        ]
+    },
+    {
+        "teamId": "ed27e266-ac50-4acf-9257-4ae1dd711123",
+        "teamName": "s193",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -85.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2500.0
             }
         ]
     },
@@ -1465,6 +1553,50 @@
             },
             {
                 "category": "USE_HINT",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2400.0
+            }
+        ]
+    },
+    {
+        "teamId": "cce26132-309d-4598-adec-ebedf161ac55",
+        "teamName": "s306",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -35.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2400.0
+            }
+        ]
+    },
+    {
+        "teamId": "a0bf7c8b-46e5-4f6b-b1b8-a28702460c2c",
+        "teamName": "s011",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -40.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
                 "value": 0.0
             },
             {
@@ -1540,8 +1672,8 @@
         ]
     },
     {
-        "teamId": "ed27e266-ac50-4acf-9257-4ae1dd711123",
-        "teamName": "s193",
+        "teamId": "5bcb2cb4-6780-4236-a6eb-8319d072b2a0",
+        "teamName": "s157",
         "scores": [
             {
                 "category": "USE_HINT",
@@ -1606,28 +1738,6 @@
         ]
     },
     {
-        "teamId": "cce26132-309d-4598-adec-ebedf161ac55",
-        "teamName": "s306",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -10.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2300.0
-            }
-        ]
-    },
-    {
         "teamId": "c18376a9-6dcf-4b2c-bc53-bf49424a1296",
         "teamName": "s099",
         "scores": [
@@ -1672,6 +1782,28 @@
         ]
     },
     {
+        "teamId": "f8740d08-9cef-41ea-9f09-aa631f83aace",
+        "teamName": "s008",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -70.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2300.0
+            }
+        ]
+    },
+    {
         "teamId": "2bc7670b-83be-4afd-bbeb-b142ce5836d6",
         "teamName": "s196",
         "scores": [
@@ -1690,6 +1822,28 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 2300.0
+            }
+        ]
+    },
+    {
+        "teamId": "a9634b64-9575-4e9c-860a-e8663c85b48a",
+        "teamName": "s109",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -175.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2400.0
             }
         ]
     },
@@ -1734,28 +1888,6 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 2200.0
-            }
-        ]
-    },
-    {
-        "teamId": "27007fdb-0111-4c6f-bda5-33c4dcd024cf",
-        "teamName": "s253",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -105.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2300.0
             }
         ]
     },
@@ -1936,6 +2068,28 @@
         ]
     },
     {
+        "teamId": "6a4c86b8-61a2-4530-9b6b-131a9ea4d92f",
+        "teamName": "s079",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -110.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 2100.0
+            }
+        ]
+    },
+    {
         "teamId": "2229a821-b165-400c-a7a9-b7501063daea",
         "teamName": "s167",
         "scores": [
@@ -2020,28 +2174,6 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 2100.0
-            }
-        ]
-    },
-    {
-        "teamId": "f8740d08-9cef-41ea-9f09-aa631f83aace",
-        "teamName": "s008",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -40.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2000.0
             }
         ]
     },
@@ -2244,28 +2376,6 @@
         ]
     },
     {
-        "teamId": "68329f30-6283-411a-8ef5-4e5d7babe19d",
-        "teamName": "s272",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -10.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 1900.0
-            }
-        ]
-    },
-    {
         "teamId": "2cfbb691-e0f0-423b-8b09-7ad70e0518ee",
         "teamName": "s150",
         "scores": [
@@ -2310,28 +2420,6 @@
         ]
     },
     {
-        "teamId": "5bcb2cb4-6780-4236-a6eb-8319d072b2a0",
-        "teamName": "s157",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -30.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 1900.0
-            }
-        ]
-    },
-    {
         "teamId": "75dad48f-6f59-404e-ad6d-4fa4169da979",
         "teamName": "s162",
         "scores": [
@@ -2350,28 +2438,6 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 1900.0
-            }
-        ]
-    },
-    {
-        "teamId": "a9634b64-9575-4e9c-860a-e8663c85b48a",
-        "teamName": "s109",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -155.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 2000.0
             }
         ]
     },
@@ -2530,28 +2596,6 @@
         ]
     },
     {
-        "teamId": "b098141b-27b9-4101-ba71-4cb0f319a951",
-        "teamName": "s034",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -40.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 1800.0
-            }
-        ]
-    },
-    {
         "teamId": "405b348e-9cb0-4beb-aab4-207b8b7e847b",
         "teamName": "s061",
         "scores": [
@@ -2684,8 +2728,8 @@
         ]
     },
     {
-        "teamId": "a0bf7c8b-46e5-4f6b-b1b8-a28702460c2c",
-        "teamName": "s011",
+        "teamId": "83769814-26ac-40b2-bcda-a29f95f32de6",
+        "teamName": "s107",
         "scores": [
             {
                 "category": "USE_HINT",
@@ -2706,8 +2750,8 @@
         ]
     },
     {
-        "teamId": "83769814-26ac-40b2-bcda-a29f95f32de6",
-        "teamName": "s107",
+        "teamId": "e65d6c98-7216-4f27-9599-d7ea2b8aedff",
+        "teamName": "s186",
         "scores": [
             {
                 "category": "USE_HINT",
@@ -2838,28 +2882,6 @@
         ]
     },
     {
-        "teamId": "6a4c86b8-61a2-4530-9b6b-131a9ea4d92f",
-        "teamName": "s079",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -100.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 1700.0
-            }
-        ]
-    },
-    {
         "teamId": "6d99112e-2461-43d8-bc41-5d2a92665a33",
         "teamName": "s118",
         "scores": [
@@ -2948,28 +2970,6 @@
         ]
     },
     {
-        "teamId": "599a9798-2b30-48ca-b2ef-81b8e58576f9",
-        "teamName": "s003",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -20.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 1600.0
-            }
-        ]
-    },
-    {
         "teamId": "b127bf19-6f71-43a0-9a33-f791835bdfeb",
         "teamName": "s041",
         "scores": [
@@ -3032,6 +3032,28 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 1800.0
+            }
+        ]
+    },
+    {
+        "teamId": "599a9798-2b30-48ca-b2ef-81b8e58576f9",
+        "teamName": "s003",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -30.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 1600.0
             }
         ]
     },
@@ -3608,28 +3630,6 @@
         ]
     },
     {
-        "teamId": "e65d6c98-7216-4f27-9599-d7ea2b8aedff",
-        "teamName": "s186",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -10.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 1400.0
-            }
-        ]
-    },
-    {
         "teamId": "aa132e34-2dec-49d4-a00b-1175b4f2dc40",
         "teamName": "s031",
         "scores": [
@@ -3863,6 +3863,28 @@
             },
             {
                 "category": "USE_HINT",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 1300.0
+            }
+        ]
+    },
+    {
+        "teamId": "0f35551e-de40-4285-b3b3-41ebfc17b5c5",
+        "teamName": "s326",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -30.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
                 "value": 0.0
             },
             {
@@ -4180,28 +4202,6 @@
         ]
     },
     {
-        "teamId": "82bc19be-44a7-4332-9b96-f2702e86e5d4",
-        "teamName": "s098",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -150.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 1200.0
-            }
-        ]
-    },
-    {
         "teamId": "672935cc-74f7-418d-9922-43d892fdfdd3",
         "teamName": "s142",
         "scores": [
@@ -4226,6 +4226,28 @@
     {
         "teamId": "2e906ddf-f782-4b54-9817-48b795adebbc",
         "teamName": "s012",
+        "scores": [
+            {
+                "category": "USE_HINT",
+                "value": -160.0
+            },
+            {
+                "category": "ABANDON_TASK",
+                "value": 0.0
+            },
+            {
+                "category": "SPECIAL",
+                "value": 0.0
+            },
+            {
+                "category": "SOLVE_TASK",
+                "value": 1200.0
+            }
+        ]
+    },
+    {
+        "teamId": "82bc19be-44a7-4332-9b96-f2702e86e5d4",
+        "teamName": "s098",
         "scores": [
             {
                 "category": "USE_HINT",
@@ -4330,28 +4352,6 @@
             {
                 "category": "SOLVE_TASK",
                 "value": 1000.0
-            }
-        ]
-    },
-    {
-        "teamId": "0f35551e-de40-4285-b3b3-41ebfc17b5c5",
-        "teamName": "s326",
-        "scores": [
-            {
-                "category": "USE_HINT",
-                "value": -20.0
-            },
-            {
-                "category": "ABANDON_TASK",
-                "value": 0.0
-            },
-            {
-                "category": "SPECIAL",
-                "value": 0.0
-            },
-            {
-                "category": "SOLVE_TASK",
-                "value": 900.0
             }
         ]
     },
